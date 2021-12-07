@@ -1,3 +1,3 @@
-# StudyTime Desktop Application for Artificial Dopamine
+# StudyTime Desktop Application
 
-### Electon, Svelte, Firebase (maybe)
+### Electon, Svelte
